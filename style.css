@@ -80,6 +80,7 @@ body {
 .btn {
   background: #cbbcf6;
   transition: all 0.16s ease-in;
+  padding: 3px;
 }
 
 .btn:hover {
